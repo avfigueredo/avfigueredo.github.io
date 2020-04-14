@@ -11,7 +11,7 @@
         <li class="pl-4">
             <a
                 title="{{ $page->siteName }} Cursos"
-                href="/Cursos"
+                href="/courses"
                 class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/courses') ? 'active text-blue' : '' }}"
             >Cursos</a>
         </li>
