@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Andre Figueredo</title>
+    <link href="https://my-jigsaw-blog.com" />
+    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
+    <updated>2020-04-14T20:24:17+00:00</updated>
+    <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
+    <author>
+        <name>André Figueredo</name>
+    </author>
+                <entry>
+    <id>https://my-jigsaw-blog.com/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor</id>
+    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor" />
+    <title>Como redescobrir o Twitter me tornou um dev com mais conhecimento e por consequência, melhor.</title>
+    <published>2020-04-14T15:02:02+00:00</published>
+    <updated>2020-04-14T15:02:02+00:00</updated>
+    <author>
+        <name>André Figueredo</name>
+    </author>
+    <summary type="html">Há alguns anos eu vagava pela internet sedento por uma forma de sair do marasmo de pouco conhecimento que eu tinha, eu lia alguns blogs aqui e ali, entrava em algumas comunidades do Facebook, mas não conseguia achar a fonte da qual eu estava sedento......</summary>
+    <content type="html"><![CDATA[
+        <p>Há alguns anos eu vagava pela internet sedento por uma forma de sair do marasmo de pouco conhecimento que eu tinha, eu lia alguns blogs aqui e ali, entrava em algumas comunidades do Facebook, mas não conseguia achar a fonte da qual eu estava sedento por beber.</p>
+
+<p>Foi por um acaso que eu me deparei com um Tweet ( eu nem sabia que chamava assim na época ) que continha um link para um post em um blog com um exemplo sobre...não me lembro, mas aquilo me deu start e eu resolvi criar uma conta naquela “nova” rede social chamada Twitter. Ao longo dos próximos 6 meses eu comecei a seguir freneticamente todos os perfis que postavam algo sobre Laravel, PHP, JS, TypeScript  e tantas outras tecnologias. Aderi ao Pocket ( excelente app para gerenciar textos, links e outras coisas que você quer ler depois ) e fui absorvendo toda a informação que podia - eu tinha achado a fonte.</p>
+
+<p>O Twitter me colocou no circuito dos <strong>caras</strong> por trás do Laravel, dos packages e das ferramentas que eu utilizo no meu dia a dia. Saber o que pensa o Taylor Otwell - Criador do Laravel - me ajuda a visualizar para onde o desenvolvimento web e o framework estão indo.</p>
+
+<p>Comecei a ter contato com dev’s que tem uma ferocidade absurda por criar, seja pequeno ou grande, mas feita de forma frenética e com uma grande capacidade de impacto para o mundo. Foi assim que eu vi serem criados o Tinkerwell, o Ignition, Laravel Telescope e tantas outras coisas.</p>
+
+<p>Algo incrível é que essas pessoas são open source, dividem o seu conhecimento e suas ideias, são engajados com às melhores práticas e com a mudança do status quo. Foram tantos conhecimentos adquiridos nas áreas de técnicas de código limpo, refatoração, Laravel, apis, GraphQL e Laravel Nova que não caberiam nesse texto.</p>
+
+<p>Por fim, hoje eu tenho um sentimento forte de querer ser open source, de dividir o conhecimento, de entrar em estado de flow e criar e testar coisas incríveis.</p>
+
+<p>Abaixo uma lista dos dev’s que eu recomendo muito seguir:</p>
+
+<p><a href="https://twitter.com/freekmurze?s=20">@freekmurze</a> - Ele e a sua empresa a <em>Spatie</em> desenvolvem diversos pacotes open source para a comunidade Laravel, pacotes esses que me ajudaram muito em grandes projetos. Ele sempre compartilha pedaços de códigos, posts e vídeos ensinando refatoração, coisas escondidas no framework, entre outras coisas.</p>
+
+<p><a href="https://twitter.com/calebporzio?s=20">@calebporzio</a> - Criador do  <a href="https://laravel-livewire.com">Laravel Livewire</a> uma ferramenta incrível que facilita o desenvolvimento de apps, principalmente se JS não for muito o seu forte.</p>
+
+<p><a href="https://twitter.com/enunomaduro?s=20">@enunomaduro</a> - Talvez de todos, é o dev que eu mais gosto de acompanhar, está sempre em ebolição criativa, pulsando novos pacotes e novas ideias na comunidade. Não sei onde ele acha tempo, mas acho foda. Sempre posta pedaços de códigos e dicas de desenvolvimento.</p>
+
+<p><a href="https://twitter.com/marcelpociot?s=20">@marcelpociot</a> - Dev simplesmente ~~foda~~, um dos criadores do<a href="https://tinkerwell.app">Tinkerwell</a>, para mim simplesmente o app mandatório para qualquer desenvolvedor PHP/Laravel. Possui alguns cursos, que ainda não tive tempo (leia-se dólar muito caro) para fazer, mas por acompanhar seu conteúdo a tanto tempo tenho certeza que são bons.</p>
+
+<p><a href="https://twitter.com/taylorotwell?s=20">@taylorotwell</a> - Criador do Laravel, não posta muita coisa, mas eu acho importante seguir, pois é o capitão do barco, o que aponta a direção no final das contas.</p>
+
+<p><a href="https://twitter.com/o_gabsferreira?s=20">@o_gabsferreira</a> - Dev brazuka, produz conteúdo para o seu blog e seu podcast, é instrutor na Alura/Caelum, não é do mundo PHP, mas compartilha diversos posts interessantes, faz uma curadoria de projetos pela web a fora, vale muito a pena seguir.</p>
+
+<p>Por fim, eu devo muito ao Twitter e as pessoas que fazem dele umlugar excelente de conhecimento.</p>
+
+<p>Aproveita e me segue lá <a href="https://twitter.com/avfigueredo">@avfigueredo</a>!</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>https://my-jigsaw-blog.com/blog/sobreme</id>
+    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/sobreme" />
+    <title>Sobre.me</title>
+    <published>2020-04-14T15:02:02+00:00</published>
+    <updated>2020-04-14T15:02:02+00:00</updated>
+    <author>
+        <name>André Figueredo</name>
+    </author>
+    <summary type="html">Hello Word, meu nome é &lt;code&gt;&amp;lt;?php echo ‘André’&lt;/code&gt;.
+
+Escrevo código desde o longínquo 2012 quando comecei a me arriscar profissionalmente em uma agência de publicidade como estagiário ( mas trabalhando como Jr. ). No meu GitHub você vai......</summary>
+    <content type="html"><![CDATA[
+        <p>Hello Word, meu nome é <code>&lt;?php echo ‘André’</code>.</p>
+
+<p>Escrevo código desde o longínquo 2012 quando comecei a me arriscar profissionalmente em uma agência de publicidade como estagiário ( mas trabalhando como Jr. ). No meu GitHub você vai encontrar commits a partir da posição 23.5505° S, 46.6333° W do globo.</p>
+
+<p>Sou um dev apaixonado por PHP, Laravel e todo o seu ecossistema, mas não abro mão de descobrir coisas novas o tempo todo. Ultimamente ando flertando com o Swift e o Typescript. Meus colegas de trabalho estão sempre reclamando que eu nunca paro em uma tecnologia, estou sempre num navegador novo, num app novo, em uma IDE nova, mas NUNCA em um SO novo - MacOS, amém!</p>
+
+<p>Aliás, cá está um Applemaníaco, que desde que adquiriu um IPod Touch 4 ficou impressionado como o aparelho era incrível e foi depois daquele sorriso que eu me perdi no mundo da maçã.</p>
+
+<p>Esse é um curto recorte sobre mim! Mas o que eu pretendo com esse blog? Escrever um pouco das ideias que eu tenho na cabeça, compartilhar um pouco de conhecimento e algumas outras coisas.</p>
+
+<p>Até lá!</p>
+    ]]></content>
+</entry>
+    </feed>
