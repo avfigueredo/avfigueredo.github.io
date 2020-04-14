@@ -13,7 +13,7 @@
                 title="{{ $page->siteName }} Cursos"
                 href="/Cursos"
                 class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/courses') ? 'active text-blue' : '' }}"
-            >Contato</a>
+            >Cursos</a>
         </li>
         <li class="pl-4">
             <a
