@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'https://avfigueredo.github.io/',
+    'baseUrl' => '',
     'production' => false,
     'siteName' => 'Andre Figueredo',
     'siteDescription' => 'Blog sobre Laravel, PHP e mais ',
