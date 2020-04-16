@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Andre Figueredo</title>
-    <link href="https://my-jigsaw-blog.com" />
-    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
-    <updated>2020-04-16T19:48:47+00:00</updated>
-    <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
+    <link href="https://avfigueredo.github.io/" />
+    <link type="application/atom+xml" rel="self" href="https://avfigueredo.github.io/blog/feed.atom" />
+    <updated>2020-04-16T20:01:16+00:00</updated>
+    <id>https://avfigueredo.github.io/blog/feed.atom</id>
     <author>
         <name>André Figueredo</name>
     </author>
                 <entry>
-    <id>https://my-jigsaw-blog.com/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor" />
+    <id>https://avfigueredo.github.io/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor</id>
+    <link type="text/html" rel="alternate" href="https://avfigueredo.github.io/blog/como-redescobrir-o-twitter-me-tornou-um-dev-com-mais-conhecimento-e-por-consequencia-melhor" />
     <title>Como redescobrir o Twitter me tornou um dev com mais conhecimento e por consequência, melhor.</title>
     <published>2020-04-14T15:02:02+00:00</published>
     <updated>2020-04-14T15:02:02+00:00</updated>
@@ -51,8 +51,8 @@
     ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/sobreme</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/sobreme" />
+    <id>https://avfigueredo.github.io/blog/sobreme</id>
+    <link type="text/html" rel="alternate" href="https://avfigueredo.github.io/blog/sobreme" />
     <title>Sobre.me</title>
     <published>2020-04-14T15:02:02+00:00</published>
     <updated>2020-04-14T15:02:02+00:00</updated>
